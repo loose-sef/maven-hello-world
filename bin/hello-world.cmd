@@ -1,0 +1,1 @@
+java -jar ~\.m2\repository\org\example\hello-world\1.0-SNAPSHOT\hello-world-1.0-SNAPSHOT.jar %*
